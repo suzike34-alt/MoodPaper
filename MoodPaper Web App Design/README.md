@@ -1,7 +1,7 @@
 
   # MoodPaper Web App Design
 
-  This is a code bundle for MoodPaper Web App Design. The original project is available at https://www.figma.com/design/ub3I79MZXedsGhaJJQ3ODB/MoodPaper-Web-App-Design.
+  MoodPaper 前端应用 - 基于 React + TypeScript + Vite 构建
 
   ## Running the code
 
