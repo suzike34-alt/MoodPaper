@@ -1,0 +1,16 @@
+# FastAPI 后端依赖
+
+# FastAPI 核心
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# CORS 支持
+python-multipart==0.0.6
+
+# 复用主项目的依赖
+# 注意：这些应该已经在主项目中安装
+# Pillow>=10.0.0
+# requests>=2.31.0
+# openai>=1.0.0
+# replicate>=0.15.0
